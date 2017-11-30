@@ -16,7 +16,7 @@
 		<div class="row login_box">
 		    <div class="col-md-12 col-xs-12" align="center">
 	            <div class="line"><h3>12 : 30 AM</h3></div>
-	            <div class="outter" ><img src="tcbr-round-fb.png" class="image-circle"/></div>   
+	            <div class="outter" ><img src="img/tcbr-round-fb.png" class="image-circle"/></div>   
 	            <h1>Bienvenue</h1>
 	            <span>Merci de rentrer vos identifiants</span>
 		    </div>

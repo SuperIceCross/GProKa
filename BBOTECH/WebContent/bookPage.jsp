@@ -21,7 +21,7 @@
     	    </thead>
     	    <tbody> 
 	    	    	<tr> ${sessionScope.role}
-	    	    		<td> <img alt="cover" src="lifeanimated-216x300.jpg" > </td>
+	    	    		<td> <img alt="cover" src="img/lifeanimated-216x300.jpg" > </td>
 	  	        <td style="vertical-align: center;"> ${bookTitle}</td>
 	  	        <td style="vertical-align: center;"> ${bookAuthor}</td>
 	  	        <td style="vertical-align: center;"> ${nbrExemplaire}</td>
